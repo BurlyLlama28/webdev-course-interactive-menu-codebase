@@ -1,8 +1,11 @@
+##This project consists of work of 2 people: me - Bohdan Kostiv and Nestor Ivaniushenko.
+Mine is waiter part, his - menu part. I've forked repository from him.
+(Nestor's github link: https://github.com/eyehol3/webdev-course-interactive-menu-codebase)
+Link for hosted project: (in process)
+Description of the project is on dev branch
 ## 1 lab:
 screenshots of responsiveness:
-![image](https://user-images.githubusercontent.com/49121161/109878523-13ceac80-7c7d-11eb-94e8-a52f9ea156fd.png)
-![image](https://user-images.githubusercontent.com/49121161/109878584-221cc880-7c7d-11eb-95ae-ffe5912e534f.png)
-![image](https://user-images.githubusercontent.com/49121161/109878621-2f39b780-7c7d-11eb-9987-1e31f782fe0e.png)
+
 
 ## 2 lab
 ## 3 lab
